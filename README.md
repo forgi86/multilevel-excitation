@@ -1,7 +1,7 @@
 # Experiment design for parameter estimation in nonlinear systems based on multilevel excitation.
 
 This repository contains the Matlab code to reproduce the results of the paper 
-[Experiment design for parameter estimation in nonlinear systems based on multilevel excitation.](https://ieeexplore.ieee.org/document/6862274) by
+[Experiment design for parameter estimation in nonlinear systems based on multilevel excitation](https://ieeexplore.ieee.org/document/6862274) by
 Marco Forgione, Xavier Bombois, Paul M.J. Van den Hof, and Håkan Hjalmarsson.
 
 
